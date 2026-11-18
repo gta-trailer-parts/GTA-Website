@@ -1,0 +1,375 @@
+{
+  "site": {
+    "name": "GTA Trailer Parts & Equipment",
+    "announce": "Same-Day GTA Delivery Available for Orders Placed Before 2:00 PM EST",
+    "announce_btn": "CALL COUNTER DIRECT",
+    "address": "140 Rutledge Rd, Brampton, ON L6V 4S2",
+    "hours": "Mon - Fri: 7:00 AM - 6:00 PM",
+    "phone": "+1-647-909-7759",
+    "phone_label": "Counter: +1-647-909-7759",
+    "email": "info@gtatrailerparts.com",
+    "tagline": "Toronto's Leading Semi-Trailer Parts Supplier",
+    "trust": [
+      "Fast Delivery",
+      "Premium Quality",
+      "Competitive Pricing",
+      "Easy Returns"
+    ],
+    "cat_title": "Eight Systems. One Supplier.",
+    "cat_intro": "From air brake chambers to LED marker lights — every system of the semi-trailer, stocked and ready to ship.",
+    "why_title": "Parts that keep you moving.",
+    "why_intro": "High-quality trailer repair parts sourced through trusted international partnerships and stocked locally in Brampton.",
+    "why": [
+      [
+        "Quality You Can Trust",
+        "Parts from reliable manufacturers."
+      ],
+      [
+        "Fast Local Delivery",
+        "Serving Ontario and surrounding areas."
+      ],
+      [
+        "Competitive Pricing",
+        "Direct sourcing saves you money."
+      ],
+      [
+        "Easy Returns",
+        "Hassle-free on eligible parts."
+      ],
+      [
+        "Personal Service",
+        "One call/text to a real person who knows trailer parts."
+      ],
+      [
+        "Brand Coverage",
+        "Great Dane, Wabash, Utility, Manac and more."
+      ]
+    ],
+    "contact_title": "Tell us what you need.",
+    "contact_intro": "Brand, part type and quantity — we confirm price and delivery time, usually same-day."
+  },
+  "systems": [
+    {
+      "n": 1,
+      "name": "Brake System",
+      "slug": "brake-system",
+      "color": "#e4173a",
+      "tagline": "Safety you can rely on",
+      "desc": "High-performance brake components built for maximum stopping power, durability and reliability. Designed to meet or exceed industry standards for safe and dependable operation on every mile.",
+      "image": "system-1.jpg",
+      "parts": [
+        {
+          "title": "Spring Brake Chamber",
+          "no": "01",
+          "spec": "T30/30 | T24/30 | T24/24",
+          "tags": [
+            "MAXIMUM SAFETY",
+            "BUILT TO LAST",
+            "OEM QUALITY"
+          ],
+          "desc": "High-performance spring brake chambers built for durability and consistent braking force. Designed for service and parking brake applications, ensuring maximum safety and reliability.",
+          "features": [
+            "High-strength steel housing for long service life",
+            "Powerful spring force for secure parking",
+            "Corrosion-resistant finish for harsh weather"
+          ],
+          "image": ""
+        },
+        {
+          "title": "Heavy Duty Brake Drum",
+          "no": "02",
+          "spec": "16.5\" x 7\" Outboard Mount",
+          "tags": [
+            "EXCELLENT HEAT DISSIPATION",
+            "PREMIUM QUALITY",
+            "EXTENDED SERVICE LIFE"
+          ],
+          "desc": "Precision-engineered brake drums designed for heavy-duty applications. Built with high-quality cast iron for superior heat dissipation, strength and wear resistance.",
+          "features": [
+            "Premium grade cast iron for maximum durability",
+            "Precision machining for proper fit and balance",
+            "Superior heat dissipation for extended life"
+          ],
+          "image": ""
+        },
+        {
+          "title": "Automatic Slack Adjuster",
+          "no": "03",
+          "spec": "10 & 28 spline | 5\" / 5½\" / 6\"",
+          "tags": [
+            "IN STOCK",
+            "OEM QUALITY"
+          ],
+          "desc": "Automatic slack adjusters that keep brake stroke in spec and cut down on manual adjustment.",
+          "features": [
+            "Available in 10 and 28 spline",
+            "Multiple arm lengths",
+            "Direct fit replacement"
+          ],
+          "image": ""
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "name": "Air System",
+      "slug": "air-system",
+      "color": "#1e4b8f",
+      "tagline": "Pressure where it counts",
+      "desc": "Premium, high-performance air system components for semi-trailers. Valves, tanks, gladhands, hose and fittings that keep the whole air circuit sealed and responsive.",
+      "image": "system-2.jpg",
+      "parts": [
+        {
+          "title": "Relay Valve",
+          "no": "04",
+          "spec": "Sealco | Haldex | Bendix",
+          "tags": [
+            "IN STOCK",
+            "OEM QUALITY"
+          ],
+          "desc": "Relay valves for fast, consistent air delivery to the brake chambers.",
+          "features": [
+            "Cross-referenced to major brands",
+            "Tested before shipping",
+            "Direct fit replacement"
+          ],
+          "image": ""
+        },
+        {
+          "title": "Gladhands & Coiled Airline",
+          "no": "05",
+          "spec": "Service | Emergency | Universal",
+          "tags": [
+            "IN STOCK"
+          ],
+          "desc": "Bracket-mount and conventional gladhands, seals, and 12-15 ft coiled airline.",
+          "features": [
+            "Aluminum bodies",
+            "Red / blue colour coded",
+            "Seals and filters available"
+          ],
+          "image": ""
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "name": "Suspension System",
+      "slug": "suspension-system",
+      "color": "#2e6b3a",
+      "tagline": "Smooth ride, less wear",
+      "desc": "Suspension components designed to deliver a smoother ride, improve stability and extend the life of your trailer. Air springs, shocks, leaf springs and slider parts.",
+      "image": "system-3.jpg",
+      "parts": [
+        {
+          "title": "Air Spring (Rolling Lobe)",
+          "no": "06",
+          "spec": "Firestone / Goodyear cross-reference",
+          "tags": [
+            "IN STOCK",
+            "OEM QUALITY"
+          ],
+          "desc": "Air springs for Neway, Hendrickson, Reyco and Hutch suspensions, cross-referenced to industry numbers.",
+          "features": [
+            "Crossover chart available",
+            "Sealed, pressure-tested",
+            "Fits major air-ride systems"
+          ],
+          "image": ""
+        },
+        {
+          "title": "Shock Absorber",
+          "no": "07",
+          "spec": "Monroe / Gabriel crossover",
+          "tags": [
+            "IN STOCK"
+          ],
+          "desc": "Heavy-duty shock absorbers for trailer air-ride suspensions.",
+          "features": [
+            "OEM fitment",
+            "Monroe to Gabriel crossover",
+            "Bushings available"
+          ],
+          "image": ""
+        }
+      ]
+    },
+    {
+      "n": 4,
+      "name": "Hydraulic System",
+      "slug": "hydraulic-system",
+      "color": "#c8963e",
+      "tagline": "Power under pressure",
+      "desc": "Hydraulic components built for strength, precision and long-lasting performance in the toughest conditions. Cylinders, pumps, hose and fittings.",
+      "image": "system-4.jpg",
+      "parts": [
+        {
+          "title": "Hydraulic Cylinder & Pump Set",
+          "no": "08",
+          "spec": "Call with VIN to confirm fit",
+          "tags": [
+            "SPECIAL ORDER"
+          ],
+          "desc": "Hydraulic components for dump, lift-axle and landing-gear applications. Quoted per application.",
+          "features": [
+            "Pressure-rated components",
+            "Hose and fittings available",
+            "Call to confirm fit"
+          ],
+          "image": ""
+        }
+      ]
+    },
+    {
+      "n": 5,
+      "name": "Body Parts",
+      "slug": "body-parts",
+      "color": "#8b5e3c",
+      "tagline": "Structural integrity",
+      "desc": "High-quality body components designed for strength, durability and long-lasting performance. Keep your trailer structurally sound with rails, posts, doors, hinges and roof parts.",
+      "image": "system-5.jpg",
+      "parts": [
+        {
+          "title": "Roof Bow",
+          "no": "09",
+          "spec": "Steel & aluminum | all major brands",
+          "tags": [
+            "IN STOCK"
+          ],
+          "desc": "Roof bows for Great Dane, Wabash, Utility, Strick, Trailmobile and more.",
+          "features": [
+            "Cambered and anti-snag styles",
+            "Galvanized or aluminum",
+            "Cross-referenced by brand"
+          ],
+          "image": ""
+        },
+        {
+          "title": "Door Hinge & Lockrod Parts",
+          "no": "10",
+          "spec": "3-hole, 4-hole & 5-hole",
+          "tags": [
+            "IN STOCK"
+          ],
+          "desc": "Hinges, hinge pins and lockrod components for swing doors.",
+          "features": [
+            "Aluminum and steel hinges",
+            "Miner lockrod components",
+            "Hinge pins and bushings"
+          ],
+          "image": ""
+        }
+      ]
+    },
+    {
+      "n": 6,
+      "name": "Hardware & Fasteners",
+      "slug": "hardware-fasteners",
+      "color": "#e4173a",
+      "tagline": "Built to hold",
+      "desc": "Comprehensive range of industrial-grade hardware and heavy-duty fasteners, engineered to withstand vibration, corrosion and heavy loads.",
+      "image": "system-6.jpg",
+      "parts": [
+        {
+          "title": "Rivets & Floor Screws",
+          "no": "11",
+          "spec": "Aluminum rivets | Torx screws",
+          "tags": [
+            "IN STOCK"
+          ],
+          "desc": "Brazier and universal head rivets, plus 1/4\" and 5/16\" Torx flathead floor screws.",
+          "features": [
+            "Hard (2117-T3) or soft (H1100) alloy",
+            "Bulk and boxed quantities",
+            "All common lengths"
+          ],
+          "image": ""
+        }
+      ]
+    },
+    {
+      "n": 7,
+      "name": "Electrical & Lighting System",
+      "slug": "electrical-lighting-system",
+      "color": "#2e6b3a",
+      "tagline": "Visibility & compliance",
+      "desc": "High-performance electrical systems and lighting solutions engineered for semi-trailers. Built to withstand harsh weather, vibration and long hours on the road.",
+      "image": "system-7.jpg",
+      "parts": [
+        {
+          "title": "LED Marker & Clearance Lights",
+          "no": "12",
+          "spec": "12V LED | DOT approved",
+          "tags": [
+            "IN STOCK",
+            "DOT COMPLIANT"
+          ],
+          "desc": "LED stop, turn, tail, marker and clearance lamps with replacement lenses.",
+          "features": [
+            "Truck-Lite production standard",
+            "Weather-sealed",
+            "Long service life"
+          ],
+          "image": ""
+        },
+        {
+          "title": "7-Way Receptacle & Pigtails",
+          "no": "13",
+          "spec": "Split pins | 20 & 30 amp breakers",
+          "tags": [
+            "IN STOCK"
+          ],
+          "desc": "7-way receptacles, plugs, junction boxes and bulk cable.",
+          "features": [
+            "Sealed connectors",
+            "Coiled cords available",
+            "Bulk cable by the foot"
+          ],
+          "image": ""
+        }
+      ]
+    },
+    {
+      "n": 8,
+      "name": "Trailer Accessories",
+      "slug": "trailer-accessories",
+      "color": "#c8963e",
+      "tagline": "Finish the job",
+      "desc": "Essential trailer maintenance and safety accessories. Find high-quality silicone sealants from Sika, heavy-duty reflective tape, decals and more.",
+      "image": "system-8.jpg",
+      "parts": [
+        {
+          "title": "Conspicuity Tape & Decals",
+          "no": "14",
+          "spec": "DOT red/white | 2\" x 150'",
+          "tags": [
+            "IN STOCK",
+            "DOT COMPLIANT"
+          ],
+          "desc": "DOT red/white conspicuity tape and reflective decals.",
+          "features": [
+            "7-year and 3-year grades",
+            "Van kits available",
+            "Decal reflectors in amber and red"
+          ],
+          "image": ""
+        },
+        {
+          "title": "Sealants & Shop Supplies",
+          "no": "15",
+          "spec": "Sika | Manus-Bond",
+          "tags": [
+            "IN STOCK"
+          ],
+          "desc": "Silicone and polyurethane sealants, adhesives, tapes and shop supplies.",
+          "features": [
+            "Manus-Bond and Sikaflex",
+            "Foam and roof tape",
+            "Paint and cleaners"
+          ],
+          "image": ""
+        }
+      ]
+    }
+  ]
+}
